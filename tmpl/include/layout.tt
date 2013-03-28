@@ -5,7 +5,7 @@
     <title>[% IF subtitle %][% subtitle %] - [% END %][% title || l('Ukigumo') %]</title>
     <meta http-equiv="Content-Style-Type" content="text/css" />  
     <meta http-equiv="Content-Script-Type" content="text/javascript" />  
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"]]>
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
     <meta name="robots" content="noindex,nofollow,noarchive" />
     <meta name="format-detection" content="telephone=no" />
     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="[% uri_for('/static/img/favicon.ico') %]" />
